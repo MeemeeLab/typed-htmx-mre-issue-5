@@ -1,0 +1,8 @@
+{
+    "type": "module",
+    "dependencies": {
+        "@types/node": "^20.12.7",
+        "typed-htmx": "^0.2.1",
+        "typescript": "^5.4.5"
+    }
+}
